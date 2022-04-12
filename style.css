@@ -105,7 +105,7 @@ main p {
     text-indent: 30px;
     line-height: 1.5em;
     text-align: justify;
-    font-weight: 540;
+    font-weight: normal;
 }
 
 #subtitulo {
